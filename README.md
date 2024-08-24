@@ -9,16 +9,25 @@ This project not only demonstrates the integration of multiple Azure services bu
 **Key Features**
 
 •	Automated Data Ingestion: Orchestrated data extraction from Kaggle using Azure Data Factory.
+
 •	Scalable Data Storage: Leveraged Azure Data Lake Storage for secure, scalable data storage.
+
 •	Data Transformation: Used Azure Databricks and Apache Spark to transform raw data into actionable insights.
+
 •	Advanced Analytics: Ran SQL queries and generated visualizations using Azure Synapse Analytics to support data-driven decision-making.
 
 **Key Technologies**
 
 •	Azure Data Factory: Orchestrates data movement and transformation, automating the data ingestion process from Kaggle.
+
 •	Azure Data Lake Storage: Provides scalable and secure data storage for both raw and transformed datasets.
+
 •	Azure Databricks: Utilized for data processing and transformation using Apache Spark, enabling fast and scalable data processing.
+
 •	Apache Spark: Core technology used within Azure Databricks for large-scale data transformation and analytics.
+
 •	Azure Synapse Analytics: Serves as the data warehouse and analytics engine for running SQL queries, analyzing data, and creating visualizations.
+
 •	SQL: Used to query and analyze the transformed data within Azure Synapse Analytics.
+
 
